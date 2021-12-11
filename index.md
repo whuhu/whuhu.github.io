@@ -1,22 +1,9 @@
-## Welcome to GitHub Pages
+## Hu Hu
 
-You can use the [editor on GitHub](https://github.com/whuhu/whuhu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Learning by Doing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+### Education
+- B.A, B.Sc in Economics and Mathematic, Wuhan University, 2021
 
 1. Numbered
 2. List
