@@ -3,4 +3,8 @@
 Learning by Doing.
 
 ### Education
-- B.A, B.Sc in Economics and Mathematic, Wuhan University, 2021
+- M.Sc in Quantitive Economics, Wuhan University, 2021-2024
+- B.A, B.Sc in Economics and Mathematics, Wuhan University, 2017-2021
+
+### Research interests
+Poverty, Inequality, Labor Economics, Development Economics, China Economics
